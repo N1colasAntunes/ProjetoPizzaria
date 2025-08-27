@@ -20,6 +20,7 @@ namespace SistemaPizzaria
             {
 
                 msg = "Ocorreu um erro ao se conectar" + erro.Message;
+
             }
             return con;
         }
@@ -35,6 +36,7 @@ namespace SistemaPizzaria
             {
 
                 msg = "Ocorreu um erro ao se conectar" + erro.Message;
+
             }
             return con;
         }

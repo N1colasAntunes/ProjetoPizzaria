@@ -15,4 +15,7 @@ CREATE TABLE tbPedido(
 )
 
 -- CONSULTANDO AS TABELAS DO BANCO
+
+
+
 SELECT * FROM tbPedido;
